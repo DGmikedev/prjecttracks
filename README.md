@@ -1,1 +1,3 @@
-Esta es el contenido de los items que se ocuparón para crear los tracks del primer proyecto.
+Adictive drums 2.0
+FL Studio 20
+midis agregar la extencion .mid
