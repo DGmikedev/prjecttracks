@@ -1,0 +1,2 @@
+synth1 = sytrus
+synth2 = FLEX
