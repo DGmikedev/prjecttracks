@@ -1,1 +1,2 @@
 Synth 1  = Sytrus
+Synth 2  = Sytrus
